@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ric9rdo
 - 👀 I’m interested in cybersecurity and privacy
-- 🌱 I’m currently learning python, information and business systems, cybersecurity and more
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning hacking techniques (tryhackme), python, information and business systems, cybersecurity and more
 - 📫 Reach me through github
 
 <!---
